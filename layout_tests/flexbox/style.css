@@ -40,19 +40,19 @@ img {
     border: solid;
     border-radius: 150px;
     border-color: forestgreen;
-    margin-left: inherit 20%;
+    align-items: start;
 }
 .sweden_pic_link {
   border: solid;
   border-radius:150px;
   border-color: royalblue;
-  margin-left: inherit;
+  align-items: center;
 }
 .austria_pic_link {
   border: solid;
   border-radius:150px;
   border-color: rgba(208, 54, 54, 0.78);
-  margin-left: inherit;
+  align-items: end;
 }
 .lappi_pic {
     float: inherit;
