@@ -1,3 +1,28 @@
+  h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(162, 21, 92, 0.63);
+    font-family: monospace;
+    text-align:center;
+    text-shadow: 4px -2px pink;
+    
+  }
+
+  p 
+  {
+    color: rgb(229, 85, 157);
+    margin-left:33%;
+    margin-right:33%;
+    text-align: center
+  }
+
+  h3 {
+  font-weight: bold;
+  color: rgba(162, 21, 92, 0.63);
+  text-align:center;
+  }
+
+
 .image-row {
   display: flex;
   justify-content: space-between;
