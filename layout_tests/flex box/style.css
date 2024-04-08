@@ -1,1 +1,18 @@
+.image-row {
+  display: flex;
+  justify-content: space-between;
+}
 
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  margin: 0 10;
+}
