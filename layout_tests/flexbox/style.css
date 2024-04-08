@@ -40,7 +40,7 @@ img {
     border: solid;
     border-radius: 150px;
     border-color: forestgreen;
-    align-items: center;
+    align-items: start;
 }
 .sweden_pic_link {
   border: solid;
